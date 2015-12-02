@@ -1,3 +1,4 @@
 ayaz.yml filter=lfs diff=lfs merge=lfs -text
 hello.yml filter=lfs diff=lfs merge=lfs -text
 screenshot.png filter=lfs diff=lfs merge=lfs -text
+ThisIsAPointer.yml filter=lfs diff=lfs merge=lfs -text
